@@ -1,0 +1,2 @@
+# CUSTOMER-LOAN-PREDICTION-ANALYSIS-USING-ML-TECHNIQUES-
+Here we are try to find out Machine learning model to predict whether assigning the loan to particular person will be safe or not.We are using the previous records of the people to whom the loan was granted before and on the basis of these records/experiences the machine was trained using the machine learning model (Logistic Regression model) which give the most accurate result. 
